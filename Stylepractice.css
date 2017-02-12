@@ -1,0 +1,46 @@
+
+
+h1{ text-align: center;
+  color: blue;
+}
+
+body{background-color: lightblue}
+
+h2{text-align: center;
+  background-color: cyan;
+  background-position: center;
+}
+
+section{text-align: center;
+}
+
+.something-awesome{color: red;
+background: cyan;}
+
+.secrete30{height: 300px;
+width: auto;border-radius: 7%;
+display: inline-block;
+}
+.makeitright{height: 300px}
+
+#e30 {color: red}
+
+p{font-style: italic; color: green;
+background: black;
+border: 5px dashed green;}
+p{font-size: 15; margin-top: 100px;
+margin-bottom: 100px;
+margin-right: 150px;
+margin-left: 80px;}
+
+
+
+
+
+footer{display: inline;}
+
+ main div {
+  display: inline-block;text-align: center;
+
+
+}
